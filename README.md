@@ -10,7 +10,6 @@ I'm an undergraduate student studying Software Engineering at University of Scie
 - 👯 I’m looking to collaborate on React projects
 - 🥅 2022 Goals: Master ReactJS
 - 💬 Ask me about anything
-- 📫 How to reach me
 - ⚡ Fun fact: I love to watch romantic comedy Korean dramas
 
 ## My Skills
@@ -20,7 +19,7 @@ I'm an undergraduate student studying Software Engineering at University of Scie
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 
-### Other
+### Others
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
